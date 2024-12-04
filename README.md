@@ -1,8 +1,3 @@
-<h1 align="center">Screenshot :</h1>  
-![[Pasted image 20241204191036.png]] <br>
-![[Pasted image 20241204191041.png]] <br>
-![[Pasted image 20241204191048.png]]
-
 
 <h1 align="center">Issues :</h1>  
 <p> <span style="font-weight:bold; color :rgb(127, 71, 169); "> 1.Maze Generation </span> - The maze is not always well-structured; paths may feel random and lack meaningful design. - Sometimes the generated maze may appear repetitive or less challenging. </p>
